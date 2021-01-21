@@ -1,6 +1,6 @@
 # Python-Web-Scraper
 ## Project Overview
-This is a web scraper implemented by using beautiful soup 4. This web scraper can get all the information you want from a website. I will use an example of searching the contact information of all professors at Brandeis University as an example. 
+This is a web scraper implemented by using beautiful soup 4. This web scraper can get all the information you want from a website. I will search the contact information of all professors at Brandeis University as an example. 
 ## Contents
 Please read [Python notebook](https://github.com/charliezcr/Python-Web-Scraper/blob/master/Python-BS-Web-Scraping.ipynb) for codes,
 For a better view of images attached, please visit the [website](https://charliezcr.github.io/Python-BS-Web-Scraping.html).
